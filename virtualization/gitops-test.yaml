@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: gitops-test
 data:
-  message: "Hello from OpenShift GitOps"
+  message: "GitOps is working successfully"
